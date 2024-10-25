@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/icon?family=Material+Icons');
 
 body {
-    background: #d2d6de;
+    background: rgb(24, 28, 31);
     font-family: 'Roboto', sans-serif;
 }
 
@@ -29,11 +29,11 @@ body {
     margin-bottom: 25px;
     font-weight: 300;
     margin-top: 7%;
-    color: rgb(68, 68, 68);
+    color: white;
 }
 
 #kc-content {
-    background: white;
+    background: #232527;
     padding: 20px;
     box-shadow: 0 5px 6px -3px rgba(0, 0, 0, 0.2),
         0 9px 12px 1px rgba(0, 0, 0, 0.14), 0 3px 16px 2px rgba(0, 0, 0, 0.12);
